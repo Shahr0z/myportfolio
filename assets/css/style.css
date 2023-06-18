@@ -1217,3 +1217,10 @@ section {
 .CVButton:hover {
   background-color: #0678e3;
 }
+
+.img-fluid {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+  display: block;
+}
